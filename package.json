@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "A simple template engine.",
+  "main": "template_for_reg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jberryliu/template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "berry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jberryliu/template/issues"
+  },
+  "homepage": "https://github.com/Jberryliu/template",
+  "devDependencies": {
+    "karma": "^0.12.35"
+  }
+}
